@@ -10,7 +10,7 @@
             <div class="col-md-12">
                             <div class="card">
                                 <div class="card-header">
-                                    <h4 class="card-title text-center">Product</h4>
+                                    <h4 class="card-title text-center">list Product</h4>
                                 </div>
                                 <div class="card-body">
                                     <table class="table table-bordered">
